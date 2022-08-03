@@ -20,4 +20,5 @@ WHEN I refresh the page
 THEN the saved events persist
 
 [Screenshot]
+Screen Shot 2022-08-02 at 11.55.53 PM.png
 https://user-images.githubusercontent.com/108239415/182520989-799b7b7f-51a2-467e-a1c4-f7973e03ddc5.png
