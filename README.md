@@ -19,5 +19,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+Deployed app: https://alsarmientoo.github.io/5-workday-scheduler/
+
 [Screenshot]
 https://user-images.githubusercontent.com/108239415/182520989-799b7b7f-51a2-467e-a1c4-f7973e03ddc5.png
